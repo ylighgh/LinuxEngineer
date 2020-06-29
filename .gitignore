@@ -1,0 +1,9 @@
+# build artifacts
+vendor/
+.bundle/
+Gemfile.lock
+系统工程师实战.html
+系统工程师实战.pdf
+*_build.sh
+/images/
+release_github_io.sh
