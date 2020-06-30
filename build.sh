@@ -8,6 +8,7 @@ GEM_BIN=$GEM_HOME/bin
 export GEM_PATH=$GEM_PATH:$GEM_HOME
 export PATH=$PATH:$GEM_BIN
 
+rm -f 系统工程师实战.html
 rm -f images/*
 rm -rf .asciidoctor/
 
